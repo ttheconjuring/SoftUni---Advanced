@@ -1,4 +1,4 @@
-package JAVA_OOP.InheritanceExercise.person;
+package JAVA_OOP.InheritanceExercise.Person;
 
 import java.io.BufferedReader;
 import java.io.IOException;

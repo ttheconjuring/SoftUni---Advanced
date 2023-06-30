@@ -1,4 +1,4 @@
-package JAVA_OOP.InheritanceExercise.Zoo;
+package JAVA_OOP.InheritanceExercise.Hero;
 
 public class Main {
 

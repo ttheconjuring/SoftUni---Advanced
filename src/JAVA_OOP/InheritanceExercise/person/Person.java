@@ -1,4 +1,4 @@
-package JAVA_OOP.InheritanceExercise.person;
+package JAVA_OOP.InheritanceExercise.Person;
 
 public class Person {
 

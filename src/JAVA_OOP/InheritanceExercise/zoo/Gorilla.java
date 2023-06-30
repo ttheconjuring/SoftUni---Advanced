@@ -1,4 +1,4 @@
-package zoo;
+package JAVA_OOP.InheritanceExercise.Zoo;
 
 public class Gorilla extends Mammal{
 
